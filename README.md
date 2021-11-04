@@ -1,26 +1,26 @@
 ## Project Trybetunes - Trybe
 
-- [Requisitos do projeto](#requisitos-do-projeto)
+- [Requisitos do projeto]
 
-* 1. Crie as rotas necessárias para a aplicação](#1-crie-as-rotas-necessárias-para-a-aplicação)
+* 1. Crie as rotas necessárias para a aplicação]
 
-* 2. Crie um formulário para identificação](#2-crie-um-formulário-para-identificação)
+* 2. Crie um formulário para identificação]
 
-* 3. Crie um componente de cabeçalho](#3-crie-um-componente-de-cabeçalho)
+* 3. Crie um componente de cabeçalho]
 
-* 4. Crie os links de navegação no cabeçalho](#4-crie-os-links-de-navegação-no-cabeçalho)
+* 4. Crie os links de navegação no cabeçalho]
 
-* 5. Crie o formulário para pesquisar artistas](#5-crie-o-formulário-para-pesquisar-artistas)
+* 5. Crie o formulário para pesquisar artistas]
 
-* 6. Faça a requisição para pesquisar artistas](#6-faça-a-requisição-para-pesquisar-artistas)
+* 6. Faça a requisição para pesquisar artistas]
 
-* 7. Crie a lista de músicas do álbum selecionado](#7-crie-a-lista-de-músicas-do-álbum-selecionado)
+* 7. Crie a lista de músicas do álbum selecionado]
 
-* 8. Crie o mecanismo para adicionar músicas na lista de músicas favoritas](#8-crie-o-mecanismo-para-adicionar-músicas-na-lista-de-músicas-favoritas)
+* 8. Crie o mecanismo para adicionar músicas na lista de músicas favoritas]
 
-* 9. Crie o mecanismo para remover músicas na lista de músicas favoritas](#9-crie-o-mecanismo-para-remover-músicas-na-lista-de-músicas-favoritas)
+* 9. Crie o mecanismo para remover músicas na lista de músicas favoritas]
 
-* 10. Crie a lista de músicas favoritas](#10-crie-a-lista-de-músicas-favoritas)
+* 10. Crie a lista de músicas favoritas]
 ---
 
 # Habilidades
@@ -45,6 +45,6 @@ Neste projeto, verificamos se voce é capaz de:
 
 ---
 
-## Resultado
+
 
 
